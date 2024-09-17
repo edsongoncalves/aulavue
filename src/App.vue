@@ -30,6 +30,6 @@
 </script>
 <style>
 .auto-scroll{
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 </style>
